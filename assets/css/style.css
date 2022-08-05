@@ -1,0 +1,25 @@
+*{
+    font-family: 'Caveat', cursive;
+}
+body{
+    background-image: url(../img/fondo2.jpg);
+    background-size: cover;
+}
+.introduccion{
+    width: 80%;
+    display: flow-root;
+    margin: auto;
+}
+.navbar{
+    background-color: black;
+}
+section{
+    display: inline;
+    margin: auto;
+    width: 80%;
+}
+footer{
+    text-align: center;
+    display: inline-block;
+    background-color: black;
+}
